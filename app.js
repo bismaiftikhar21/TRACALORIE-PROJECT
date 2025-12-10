@@ -1,5 +1,5 @@
 
-//upper 2 clocks
+//upper 2 blocks
 ////////////////step 1
 
 /*
